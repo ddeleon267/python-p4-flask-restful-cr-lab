@@ -2,6 +2,7 @@ import json
 
 from app import app
 from models import db, Plant
+import pdb
 
 class TestPlant:
     '''Flask application in app.py'''
